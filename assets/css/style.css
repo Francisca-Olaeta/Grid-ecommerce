@@ -87,19 +87,35 @@ h1 {
     background-position: center;
 }
 
+.foto1:hover {
+    background-size: 200%;
+}
+
 .foto2 {
     background-image: url("assets/img/card-2.jpg");
     background-position: center;
 }
+
+.foto2:hover {
+    background-size: 200%;
+
 
 .foto3 {
     background-image: url("assets/img/card-3.jpg");
     background-position: bottom;
 }
 
+.foto3:hover {
+    background-size: 200%;
+}
+
 .foto4 {
     background-image: url("assets/img/card-4.jpg");
     background-position: center;
+}
+
+.foto4:hover {
+    background-size: 200%;
 }
 
 .foto5 {
@@ -108,10 +124,18 @@ h1 {
     position: relative;
 }
 
+.foto5:hover {
+    background-size: 200%;
+
+
 .foto6 {
     background-image: url("assets/img/card-6.jpg");
     background-position: bottom;
     position: static;
+}
+
+.foto6:hover {
+    background-size: 200%;
 }
 
 .card-body {
