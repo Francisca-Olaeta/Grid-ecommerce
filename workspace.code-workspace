@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../ejercicio-galeria-imagenes"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../grid-ejercicio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "grid-desafio-francisca-olaeta"
+	}
+}
