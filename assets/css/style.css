@@ -83,22 +83,22 @@ h1 {
 }
 
 .foto1 {
-    background-image: url("assets/img/card-1.jpg");
+    background-image: url("img/card-1.jpg");
     background-position: center;
 }
 
 .foto2 {
-    background-image: url("assets/img/card-2.jpg");
+    background-image: url("card-2.jpg");
     background-position: center;
 }
 
 .foto3 {
-    background-image: url("assets/img/card-3.jpg");
+    background-image: url("../card-3.jpg");
     background-position: bottom;
 }
 
 .foto4 {
-    background-image: url("assets/img/card-4.jpg");
+    background-image: url("../img/card-4.jpg");
     background-position: center;
 }
 
