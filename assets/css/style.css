@@ -6,7 +6,6 @@
 }
 
 
-
 /*contenedor padre*/
 .grid-container {  
     display: grid;
@@ -96,8 +95,10 @@ h1 {
     background-position: center;
 }
 
+    
 .foto2:hover {
     background-size: 200%;
+}
 
 
 .foto3 {
@@ -124,8 +125,10 @@ h1 {
     position: relative;
 }
 
+    
 .foto5:hover {
-    background-size: 200%;
+    background-size: 200%;   
+}
 
 
 .foto6 {
@@ -210,5 +213,3 @@ footer {
     align-items: center;
 
 }
-  
-  
