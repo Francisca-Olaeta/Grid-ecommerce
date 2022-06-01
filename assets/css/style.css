@@ -91,7 +91,7 @@ h1 {
 }
 
 .foto2 {
-    background-image: url("assets/img/card-2.jpg");
+    background-image: url("../img/card-2.jpg");
     background-position: center;
 }
 
@@ -102,7 +102,7 @@ h1 {
 
 
 .foto3 {
-    background-image: url("assets/img/card-3.jpg");
+    background-image: url("../img/card-3.jpg");
     background-position: bottom;
 }
 
@@ -111,7 +111,7 @@ h1 {
 }
 
 .foto4 {
-    background-image: url("assets/img/card-4.jpg");
+    background-image: url("../img/card-4.jpg");
     background-position: center;
 }
 
@@ -120,7 +120,7 @@ h1 {
 }
 
 .foto5 {
-    background-image: url("assets/img/card-5.jpg");
+    background-image: url("../img/card-5.jpg");
     background-position: bottom;
     position: relative;
 }
@@ -132,7 +132,7 @@ h1 {
 
 
 .foto6 {
-    background-image: url("assets/img/card-6.jpg");
+    background-image: url("../img/card-6.jpg");
     background-position: bottom;
     position: static;
 }
