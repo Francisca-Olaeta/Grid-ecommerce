@@ -82,7 +82,7 @@ h1 {
 }
 
 .foto1 {
-    background-image: url("assets/img/card-1.jpg");
+    background-image: url("../img/card-1.jpg");
     background-position: center;
 }
 
